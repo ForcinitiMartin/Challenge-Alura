@@ -5,13 +5,16 @@
 }
 
 body {
-  background-color: lightgray;
+  height: 600px;
+  background-image: url(../img/fondo.jpg);
+  background-size: cover;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main {
   width: 80vw;
   margin: auto;
+  margin-top: 150px;
   display: flex;
   justify-content: center;
 }
@@ -20,7 +23,7 @@ body {
   padding: 15px;
   width: 30vw;
   margin: auto;
-
+  margin-top: 100px;
 }
 
 .box {

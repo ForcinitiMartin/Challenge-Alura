@@ -18,3 +18,6 @@ No se permite acentuación de palabras
 Solo letras minusculas
 No se permite acentuación de palabras   
 */
+encriptar();
+desencriptar();
+copiar();
